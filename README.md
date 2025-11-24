@@ -6,8 +6,7 @@ The design is fully responsive and focuses on a simple, user-friendly layout.
 ---
 
 ## 🔗 Live Demo
-Check it out here: [https://yourusername.github.io/tea-house-website/](https://yourusername.github.io/tea-house-website/)
-
+Check it out here: https://choton-roy.github.io/tea-house-website/
 ---
 
 ## 📸 Preview
