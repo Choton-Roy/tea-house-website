@@ -44,8 +44,8 @@ tea-house-website/
 ├── index.html
 ├── style.css
 ├── README.md
-├── /images
-└── /assets
+├── images/
+└── assets/
 
 ---
 
